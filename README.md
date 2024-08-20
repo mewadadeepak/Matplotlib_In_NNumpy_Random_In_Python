@@ -1,1 +1,1 @@
-# Matplotlib_In_NNumpy_Random_In_Python
+# Matplotlib_In_Numpy_Random_In_Python
